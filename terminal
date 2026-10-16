@@ -1,0 +1,3 @@
+mkdir caching-proxy
+cd caching-proxy
+npm init -y
